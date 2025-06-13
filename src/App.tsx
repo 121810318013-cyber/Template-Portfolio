@@ -1,0 +1,34 @@
+import React from 'react';
+import Navigation from './components/Navigation';
+import Hero from './components/Hero';
+import About from './components/About';
+import Projects from './components/Projects';
+import Contact from './components/Contact';
+
+function App() {
+  return (
+    <div className="bg-gray-900 text-white">
+      <Navigation />
+      <Hero />
+      <About />
+      <Projects />
+      <Contact />
+      
+      {/* Footer */}
+      <footer className="bg-gray-800 py-8 border-t border-gray-700">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center">
+            <p className="text-gray-400">
+              © 2025 Praneet Kandregula's Portfolio.
+            </p>
+            <p className="text-gray-500 text-sm mt-2">
+              Designed with ❤️ by © StaffArc 
+            </p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  );
+}
+
+export default App;
