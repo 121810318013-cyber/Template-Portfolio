@@ -4,17 +4,18 @@ import profilePic from '../assets/68426982.jpeg';
 
 const About = () => {
   const skills = [
-    { name: 'JavaScript', level: 95 },
-    { name: 'React', level: 90 },
-    { name: 'TypeScript', level: 85 },
-    { name: 'Node.js', level: 88 },
-    { name: 'Python', level: 82 },
-    { name: 'CSS/Tailwind', level: 92 },
-    { name: 'ML', level: 100 },
+    { name: 'Java, Python', level: 93 },
+    { name: 'Go, React', level: 90 },
+    { name: 'Spring, Flask, Django', level: 85 },
+    { name: 'AWS, Azure', level: 81 },
+    { name: 'MongoDB, SQL', level: 86 },
+    { name: 'HTML, CSS, JavaScript(Node.js)', level: 92 },
+    { name: 'ML, GenAI', level: 83 },
   ];
 
   const handleResumeDownload = () => {
-    window.open('https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view', '_blank');
+    // window.open('https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view', '_blank');
+    window.location.href = 'https://drive.google.com/uc?export=download&id=1qxGJZ43lyyu7RFxU77F6HSe_cGDhaJbM';
   };
 
   return (
@@ -57,7 +58,7 @@ const About = () => {
             </div>
 
             <p className="text-gray-300 leading-relaxed mb-6 text-sm sm:text-base">
-              I'm a passionate full-stack developer with over 5 years of experience building
+              I'm a passionate full-stack developer with over 2+ years of experience building
               web applications that make a difference. I love turning complex problems into
               simple, beautiful, and intuitive solutions.
             </p>
@@ -65,15 +66,15 @@ const About = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 mb-6">
               <div className="flex items-center text-gray-400">
                 <MapPin size={14} className="mr-2 text-purple-400 flex-shrink-0" />
-                <span className="text-xs sm:text-sm">San Francisco, CA</span>
+                <span className="text-xs sm:text-sm">Dallas, Texas</span>
               </div>
               <div className="flex items-center text-gray-400">
                 <Calendar size={14} className="mr-2 text-purple-400 flex-shrink-0" />
-                <span className="text-xs sm:text-sm">5+ Years Experience</span>
+                <span className="text-xs sm:text-sm">2+ Years Experience</span>
               </div>
               <div className="flex items-center text-gray-400 sm:col-span-2">
                 <Award size={14} className="mr-2 text-purple-400 flex-shrink-0" />
-                <span className="text-xs sm:text-sm">50+ Projects Completed</span>
+                <span className="text-xs sm:text-sm">40+ Projects Completed</span>
               </div>
             </div>
 

@@ -66,7 +66,7 @@ const Navigation = () => {
                 <Github size={18} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/kandregula-praneet-0902a018a"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors duration-200"
@@ -130,7 +130,7 @@ const Navigation = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://linkedin.com/in/kandregula-praneet-0902a018a"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white transition-colors duration-200"

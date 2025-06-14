@@ -59,7 +59,7 @@ const Contact = () => {
                   <MapPin className="text-white" size={24} />
                 </div>
                 <h4 className="text-white font-semibold mb-2 text-sm sm:text-base">Location</h4>
-                <p className="text-gray-400 text-sm sm:text-base">San Francisco, CA</p>
+                <p className="text-gray-400 text-sm sm:text-base">Dallas, Texas</p>
               </div>
             </div>
 
@@ -76,7 +76,7 @@ const Contact = () => {
                   <Github size={20} className="text-gray-400 group-hover:text-white" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://linkedin.com/in/kandregula-praneet-0902a018a"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 sm:w-14 sm:h-14 bg-gradient-to-r bg-gray-700  hover:from-purple-600 hover:to-pink-600 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 group"
