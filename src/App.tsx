@@ -21,9 +21,6 @@ function App() {
             <p className="text-gray-400">
               © 2025 Praneet Kandregula's Portfolio.
             </p>
-            <p className="text-gray-500 text-sm mt-2">
-              Designed with ❤️ by © StaffArc 
-            </p>
           </div>
         </div>
       </footer>
