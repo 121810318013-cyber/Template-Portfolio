@@ -14,8 +14,8 @@ const About = () => {
   ];
 
   const handleResumeDownload = () => {
-    // window.open('https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view', '_blank');
-    window.location.href = 'https://drive.google.com/uc?export=download&id=1qxGJZ43lyyu7RFxU77F6HSe_cGDhaJbM';
+    // window.open('https://drive.google.com/uc?export=download&id=1xuNdi7yO-EcvFUnY-Ho90GzyMjBCgpnz', '_blank');
+    window.location.href = 'https://drive.google.com/uc?export=download&id=1xuNdi7yO-EcvFUnY-Ho90GzyMjBCgpnz';
   };
 
   return (
