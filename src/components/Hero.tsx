@@ -3,7 +3,7 @@ import { ChevronDown, Code, Sparkles } from 'lucide-react';
 
 const Hero = () => {
   const [text, setText] = useState('');
-  const fullText = 'Full Stack Developer';
+  const fullText = 'Data Engineer';
   
   useEffect(() => {
     let index = 0;
@@ -62,8 +62,7 @@ const Hero = () => {
           </div>
           
           <p className="text-sm sm:text-lg lg:text-xl text-gray-400 mb-8 sm:mb-12 max-w-2xl mx-auto leading-relaxed px-4">
-            I craft digital experiences with modern technologies, focusing on clean code, 
-            beautiful design, and seamless user interactions.
+            Transforming raw data into actionable insights with scalable systems, optimized pipelines, and cutting-edge technologies.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center px-4">

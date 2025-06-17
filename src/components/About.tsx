@@ -4,7 +4,7 @@ import profilePic from '../assets/68426982.jpeg';
 
 const About = () => {
   const skills = [
-    { name: 'Java, Python', level: 93 },
+    { name: 'Java, Python, PySpark', level: 93 },
     { name: 'Go, React', level: 90 },
     { name: 'Spring, Flask, Django', level: 85 },
     { name: 'AWS, Azure', level: 81 },
@@ -30,7 +30,7 @@ const About = () => {
             </span>
           </h2>
           <p className="text-gray-400 text-base sm:text-lg max-w-2xl mx-auto px-4">
-            Passionate developer with a love for creating innovative solutions
+            Passionate Data engineer with a love for creating innovative data solutions
           </p>
         </div>
 
@@ -58,7 +58,7 @@ const About = () => {
             </div>
 
             <p className="text-gray-300 leading-relaxed mb-6 text-sm sm:text-base">
-              I'm a passionate full-stack developer with over 2+ years of experience building
+              I'm a passionate data engineer with over 2+ years of experience building
               web applications that make a difference. I love turning complex problems into
               simple, beautiful, and intuitive solutions.
             </p>
