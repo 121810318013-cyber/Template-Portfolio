@@ -5,7 +5,7 @@ const WorkExperience = () => {
   const experiences = [
     {
       company: "Cognizant",
-      role: "Data Engineer",
+      role: "Associate Data Engineer",
       location: "Dallas, USA",
       period: "August 2025 - Present",
       description: [
