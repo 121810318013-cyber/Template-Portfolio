@@ -94,7 +94,7 @@ const Contact = () => {
                 </a>
                 <a
                   //href="https://linkedin.com/in/kandregula-praneet-0902a018a/"
-                  href="https://www.linkedin.com/in/praneet-kandregula-0902a018a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                  href="https://www.linkedin.com/in/praneet-kandregula-0902a018a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 sm:w-14 sm:h-14 bg-gradient-to-r bg-gray-700  hover:from-purple-600 hover:to-pink-600 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 group"
