@@ -80,7 +80,7 @@ const Navigation = () => {
               </a>
               <a
                 //href="https://www.linkedin.com/in/praneet-kandregula-0902a018a/" //
-                href="https://www.linkedin.com/in/praneet-kandregula-0902a018a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                href="https://www.linkedin.com/in/praneet-kandregula-0902a018a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors duration-200"
