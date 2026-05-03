@@ -143,7 +143,7 @@ const WorkExperience = () => {
       company: "Cognizant",
       role: "Field Engineer",
       location: "Greater St. Louis",
-      period: "Oct 2025 - Present",
+      period: "Oct 2025 - Mar 2026",
       description: [
         "Owned deployment and operational support of enterprise infrastructure systems, ensuring high availability across cloud and on-premises environments. (Amazon LP: Ownership)",
         "Led system configuration, validation, and deployment readiness activities during production releases and infrastructure upgrades. (Deliver Results)",
