@@ -183,8 +183,7 @@ const About = () => {
             </span>
           </h2>
           <p className="text-gray-400 text-base sm:text-lg max-w-2xl mx-auto px-4">
-            Passionate Data Engineer with a love for creating innovative data
-            solutions and robust infrastructure.
+            Project Manager @ Amazon | Building Scalable Infrastructure & Security Products | Data-Driven Decision Maker
           </p>
         </div>
 
@@ -217,16 +216,12 @@ const About = () => {
             </div>
 
             <p className="text-gray-300 leading-relaxed mb-6 text-sm sm:text-base">
-              I am a Data Engineer with over 4+ years of experience in the IT
-              industry, specializing in data engineering, cloud platforms, and
-              analytics infrastructure. I have strong expertise in building
-              reliable, scalable data pipelines and managing cloud-based
-              platforms across AWS, GCP, and Azure.
+             Product Manager with 4+ years of experience delivering scalable infrastructure, security, and data-driven solutions across distributed environments. Proven ability to own the end-to-end product lifecycle, from defining product vision and roadmap to execution and continuous improvement.
+ 
+Strong background in collaborating with cross-functional teams including engineering, operations, and security, with a focus on building reliable, secure, and high-performing systems. Experienced in translating complex business and technical requirements into actionable product strategies that improve system uptime, operational efficiency, and user experience.
             </p>
             <p className="text-gray-300 leading-relaxed mb-6 text-sm sm:text-base">
-              My background includes proficient use of Python, SQL, and Full-Stack 
-              technologies for end-to-end development, as well as orchestrating 
-              containerized workloads using Docker and Kubernetes.
+              Skilled in cloud platforms, analytics, and infrastructure products, with a data-driven mindset to prioritize features, measure success, and drive impact. Adept at stakeholder management, agile methodologies, and delivering solutions that align business goals with customer needs.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 mb-6">
