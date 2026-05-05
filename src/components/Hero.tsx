@@ -160,9 +160,8 @@ const Hero = () => {
           </div>
 
           <p className="text-sm sm:text-lg lg:text-xl text-gray-400 mb-8 sm:mb-12 max-w-2xl mx-auto leading-relaxed px-4">
-            Specializing in cloud data platforms, analytics infrastructure, and
-            building reliable, scalable data pipelines across AWS, GCP, and
-            Azure.
+            Project Manager @ Amazon | Building Scalable Infrastructure & Security Products | Data-Driven Decision Maker | Specializing in cloud data platforms, analytics infrastructure, and
+            building reliable, scalable data pipelines across AWS, GCP, and Azure.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center items-center px-4">
