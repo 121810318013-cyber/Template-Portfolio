@@ -98,7 +98,7 @@ import { ChevronDown, Code, Sparkles } from "lucide-react";
 
 const Hero = () => {
   const [text, setText] = useState("");
-  const fullText = "Data Engineer";
+  const fullText = "Project Manager";
 
   useEffect(() => {
     let index = 0;
